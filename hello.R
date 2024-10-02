@@ -4,3 +4,5 @@ hello <- function(name){
   text <- paste("Hello, ", name, "!", sep="")
   print(text)
 }
+
+Hi! Is this working?
